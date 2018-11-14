@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/networkutil.iml" filepath="$PROJECT_DIR$/networkutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internet-connectivity-checker.iml" filepath="$PROJECT_DIR$/internet-connectivity-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internetconnectivitychecker/internetconnectivitychecker.iml" filepath="$PROJECT_DIR$/internetconnectivitychecker/internetconnectivitychecker.iml" />
     </modules>
   </component>
 </project>
